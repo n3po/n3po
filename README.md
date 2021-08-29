@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @n3po
 - 👀 I’m interested in this very new cosmos for me 
-- 🌱 I’m currently learning the very very _basics_ of data analysis and visualisation
+- 🌱 I’m currently learning the very very **basics** of data analysis and visualisation
 - 💞️ I’m looking to collaborate on any projects which I can support even though I am not a master at this field yet :) 
 
 <!---
